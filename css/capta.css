@@ -1,0 +1,13 @@
+.btnRefresh {
+    border: 0;
+    color: #FFF;
+    float: left;
+    cursor: pointer;
+    text-decoration: underline;
+    color: blue;
+    margin-top: 5px;
+}
+
+#captcha_code {
+    vertical-align: middle;
+}
